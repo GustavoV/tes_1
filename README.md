@@ -1,4 +1,4 @@
-tes_1
+test_1
 =====
 
-this is our first test repository for GIt hub
+This is our first test repository for Github. this should be a second push notification 
